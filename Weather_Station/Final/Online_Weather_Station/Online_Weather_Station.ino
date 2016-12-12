@@ -14,8 +14,8 @@
 #include <LiquidCrystal.h>
 
 
-char ssid[] = "HTC One_M8_F1E7";      //  your network SSID (name)
-char pass[] = "D8EE41EA";   // your network password
+char ssid[] = "Your network name";      //  your network SSID (name)
+char pass[] = "Your network password";   // your network password
 int keyIndex = 0;            // your network key Index number (needed only for WEP)
 
 int status = WL_IDLE_STATUS;
@@ -42,7 +42,7 @@ char weatherString[30];
 char humidity[4];
 
 //API information
-String apiKey = "fabbf824c599116a";
+String apiKey = "Your api key";
 //US
 String state = "IL";
 String city = "Bloomington";
