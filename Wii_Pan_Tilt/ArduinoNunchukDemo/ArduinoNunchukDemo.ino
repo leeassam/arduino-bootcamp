@@ -1,9 +1,16 @@
 /*
+  Arduino Bootcamp
+
+  - Pan Tilt Assembly Control - Demo of taking readings from the Wii Nunchuk
+
  * ArduinoNunchukDemo.ino
  *
  * Copyright 2011-2013 Gabriel Bianconi, http://www.gabrielbianconi.com/
  *
  * Project URL: http://www.gabrielbianconi.com/projects/arduinonunchuk/
+ * 
+ * modified 10/30/2016
+ * by: Lee Assam
  *
  */
 
@@ -29,17 +36,24 @@ void loop()
 {
   nunchuk.update();
 
+  Serial.print("X: ");
   Serial.print(nunchuk.analogX, DEC);
   Serial.print(' ');
+  Serial.print("Y: ");  
   Serial.print(nunchuk.analogY, DEC);
   Serial.print(' ');
+  Serial.print("Acc X: ");
   Serial.print(nunchuk.accelX, DEC);
   Serial.print(' ');
+  Serial.print("Acc Y: ");
   Serial.print(nunchuk.accelY, DEC);
   Serial.print(' ');
+  Serial.print("Acc Z: ");
   Serial.print(nunchuk.accelZ, DEC);
   Serial.print(' ');
+  Serial.print("Z btn: ");
   Serial.print(nunchuk.zButton, DEC);
   Serial.print(' ');
+  Serial.print("C btn: ");
   Serial.println(nunchuk.cButton, DEC);
 }
