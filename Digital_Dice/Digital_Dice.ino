@@ -5,8 +5,6 @@ Arduino Bootcamp
 
   This project uses a seven segment display to create a digital dice
 
-created 10/30/2016
-modified 10/30/2016
 by: Lee Assam
 
 */

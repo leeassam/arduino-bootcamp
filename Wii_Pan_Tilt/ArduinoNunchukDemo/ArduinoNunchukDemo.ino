@@ -9,7 +9,6 @@
  *
  * Project URL: http://www.gabrielbianconi.com/projects/arduinonunchuk/
  * 
- * modified 10/30/2016
  * by: Lee Assam
  *
  */

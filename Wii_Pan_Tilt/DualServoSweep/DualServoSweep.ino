@@ -5,8 +5,6 @@
 
   This project demonstrates how two servos can be controlled
 
-  created 10/30/2016
-  modified 10/30/2016
   by: Lee Assam
 
 */

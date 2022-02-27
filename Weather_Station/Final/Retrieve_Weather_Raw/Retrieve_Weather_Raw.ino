@@ -6,8 +6,6 @@
   This sketch connects to the Weather Underground API to make a request
   using an Arduino Wifi shield. It shows the raw response that is returned
 
-  created 10/30/2016
-  modified 10/30/2016
   by: Lee Assam
 */
 

@@ -5,8 +5,6 @@
 
   This project demonstrates how the movement of a joystick can be mapped and displayed on an LED Matrix
 
-  created 10/30/2016
-  modified 10/30/2016
   by: Lee Assam
 
 */

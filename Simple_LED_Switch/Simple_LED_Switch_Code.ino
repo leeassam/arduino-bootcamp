@@ -5,8 +5,6 @@ Arduino Bootcamp
 
 This project demonstrates how a push  button switch can be used to turn an LED ON/OFF
 
-created 10/29/2016
-modified 10/29/2016
 by: Lee Assam
 
 */

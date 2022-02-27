@@ -4,8 +4,6 @@
   This sketch connects to the Weather Underground API to make a request
   using an Arduino Wifi shield. The result is displayed on an LCD display.
   
-  created 10/30/2016
-  modified 10/30/2016
   by: Lee Assam
 
 */

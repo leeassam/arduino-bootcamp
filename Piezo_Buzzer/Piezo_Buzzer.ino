@@ -5,8 +5,6 @@ Arduino Bootcamp
 
 This project demonstrates how a push  button switch can be used to sound a piezo buzer
 
-created 10/30/2016
-modified 10/30/2016
 by: Lee Assam
 
 */

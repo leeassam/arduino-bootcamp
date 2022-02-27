@@ -6,8 +6,6 @@ Arduino Bootcamp
 This project demonstrates a game with piezo buzzers. 
 The objective is to play back the sounds that are heard in the exact order that they are played.
 
-created 10/30/2016
-modified 10/30/2016
 by: Lee Assam
 
 */

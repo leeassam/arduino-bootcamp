@@ -5,8 +5,6 @@ Arduino Bootcamp
 
   This project demonstrates how to set up a seven segment display
 
-created 10/30/2016
-modified 10/30/2016
 by: Lee Assam
 
 */

@@ -36,8 +36,7 @@
 
  http://www.arduino.cc/en/Tutorial/LiquidCrystal
 
- modified 10/30/2016
- by Lee Assam
+ modified by Lee Assam
  */
 
 // include the library code:

@@ -5,8 +5,6 @@ Arduino Bootcamp
 
 This project demonstrates how an LED can be controlled by the Arduino
 
-created 10/29/2016
-modified 10/29/2016
 by: Lee Assam
 
 */

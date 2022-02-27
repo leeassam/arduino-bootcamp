@@ -6,8 +6,6 @@ Controlling a CPU Fan - Button Speed Control - Part 2
 This project demonstrates how a CPU Fan can be controlled with the Arduino. 
 The objective is to use a button to adjust the fan speed.
 
-created 10/30/2016
-modified 10/30/2016
 by: Lee Assam
 
 */

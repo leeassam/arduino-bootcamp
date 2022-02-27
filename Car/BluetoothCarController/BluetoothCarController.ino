@@ -5,8 +5,6 @@
 
   This project demonstrates how a car with two motors can be controlled via Bluetooth using a smart phone app.
 
-  created 10/30/2016
-  modified 10/30/2016
   by: Lee Assam
 
 */

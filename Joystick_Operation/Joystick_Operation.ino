@@ -8,8 +8,6 @@ Arduino Bootcamp
 
   Connections to joystick (change if you use different pins):
 
-created 10/30/2016
-modified 10/30/2016
 by: Lee Assam
 
 */

@@ -5,8 +5,6 @@ Arduino Bootcamp
 
 This project demonstrates how the brightness of an LED can be controlled by a potentiometer using pulse width modulation
 
-created 10/29/2016
-modified 10/29/2016
 by: Lee Assam
 
 */

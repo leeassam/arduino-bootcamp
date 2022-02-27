@@ -6,8 +6,6 @@ Ultrasonic Sensor Alarm - HC-SR04
 This project demonstrates how an ultrasonic sensor works
 The circuit uses a piezo buzzer as an alarm in conjunction with a red LED to warn of danger and a green LED for normal status.
 
-created 10/30/2016
-modified 10/30/2016
 by: Lee Assam
 
 */

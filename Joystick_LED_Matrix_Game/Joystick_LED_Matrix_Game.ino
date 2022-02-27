@@ -6,8 +6,6 @@
   This project demonstrates how a joytstick can be used in conjunction with an 8 x 8 LED Matrix to create a game.
   The object of the game is to capture the falling ball on platform that you control with the joystick
 
-  created 10/30/2016
-  modified 10/30/2016
   by: Lee Assam
 
 */

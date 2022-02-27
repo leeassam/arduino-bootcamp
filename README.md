@@ -1,8 +1,8 @@
 # arduino-bootcamp
 Code for the Arduino Bootcamp Course
 
-This project contains the code for the related projects on my Udemy Arduino Bootcamp course
-https://www.udemy.com/arduino-bootcamp
+This project contains the code for the related projects on my Arduino Bootcamp course
+https://www.powerlearningacademy.com/p/arduino-bootcamp-learning-through-projects
 
 
 Welcome to Arduino Bootcamp : Learning Through Projects. It is a hands-on projects-based approach to learning the Arduino platform that is meant to  take you from Novice to Professional. I’m Lee Assam, an Electrical Engineer, Professional Software Developer and University Instructor, but most importantly an electronics hobbyist. I have been tinkering with Arduino since its inception and teach university courses about it.

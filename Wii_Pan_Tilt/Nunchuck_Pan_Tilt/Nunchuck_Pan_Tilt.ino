@@ -5,8 +5,6 @@
 
   This project demonstrates how a Wii Nunchuk can be used to control a pan-tilt assembly
 
-  created 10/30/2016
-  modified 10/30/2016
   by: Lee Assam
 
 */

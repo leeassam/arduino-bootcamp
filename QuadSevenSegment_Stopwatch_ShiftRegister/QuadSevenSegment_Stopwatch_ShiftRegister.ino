@@ -6,8 +6,6 @@ Arduino Bootcamp
   This project will create a stopwatch with a dual seven segment display.
   It uses the 74HC595 shift register to control led display with only 3 pins from the Arudino
   
-  created 10/30/2016
-  modified 10/30/2016
   by: Lee Assam
 */
 #include <StopWatch.h>

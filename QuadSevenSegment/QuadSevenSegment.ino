@@ -5,8 +5,6 @@ Stopwatch - Controlling a 4 Digit Segment Display - Part 1
 
 This project demonstrates how to control a four digit seven segment display
 
-created 10/30/2016
-modified 10/30/2016
 by: Lee Assam
 
 */

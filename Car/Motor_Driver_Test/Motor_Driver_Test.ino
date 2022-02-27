@@ -6,8 +6,6 @@
   This project demonstrates how a motor driver can be used to control two motors.
   It is a test program that cycles through the different directions of motor control.
 
-  created 10/30/2016
-  modified 10/30/2016
   by: Lee Assam
 
 */

@@ -7,8 +7,6 @@
 
   When a switch that is connected to interrupt pin 2 is pressed, it fires and interrupt which toggles the LED on pin 13
 
-  created 10/30/2016
-  modified 10/30/2016
   by: Lee Assam
 
 */
